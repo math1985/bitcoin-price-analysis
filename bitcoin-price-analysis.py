@@ -1,3 +1,5 @@
+# Code related to https://www.reddit.com/r/BitcoinMarkets/comments/7en692/trend_following_versus_mean_reversion_on_bitcoin/
+
 import calendar
 import datetime
 import sys
